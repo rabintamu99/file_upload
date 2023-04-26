@@ -64,10 +64,6 @@ $(document).ready(function () {
 });
 </script>
 
-
-
-
-
 <?php
 	if(isset($_POST["id"])){
 		$nameNo= $_POST["id"];
